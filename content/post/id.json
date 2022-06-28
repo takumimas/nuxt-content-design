@@ -1,0 +1,16 @@
+{
+    "id": "id",
+    "date": "2022/03/04",
+    "publishedAt": "2022-06-12T12:39:08.130Z",
+    "title": "Post Title",
+    "body": "Body",
+    "category": {
+        "id": "category-26",
+        "createdAt": "2022-06-12T10:12:40.040Z",
+        "updatedAt": "2022-06-23T08:51:15.278Z",
+        "publishedAt": "2022-06-12T10:12:40.040Z",
+        "revisedAt": "2022-06-23T08:51:15.278Z",
+        "title": "Node.js",
+        "link": "nodejs"
+    }
+}
